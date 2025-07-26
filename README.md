@@ -5,4 +5,5 @@
  
 - Projeto basico
 - Projeto de Gerenciamento
+- Projeto Django
 
