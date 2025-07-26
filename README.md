@@ -3,4 +3,6 @@
 **Projetos feito no CyberEdux:**
 
  
-- projeto basico
+- Projeto basico
+- Projeto de Gerenciamento
+
